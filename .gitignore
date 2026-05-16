@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.*
+server/storage/uploads/*
+server/storage/tasks/*
+!server/storage/uploads/.gitkeep
+!server/storage/tasks/.gitkeep
+samples/*.xlsx
